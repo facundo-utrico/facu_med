@@ -1,2 +1,6 @@
 # facu_med
-Revive Center for qb-core servers. 
+<br>
+<br>
+Revive Center for QBCore FiveM Servers. 
+<br>
+Check out config.lua for more info :) 
